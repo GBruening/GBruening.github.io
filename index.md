@@ -15,7 +15,9 @@ redirect_from:
   - /about.html
 ---
 
-Currently a doctoral student in the [Nueromechanics Lab](https://www.colorado.edu/neuromechanics/) at University of Colorado, Boulder under Alaa Ahmed. Our lab focuses on determining how effort and reward can impact motor decisions in arm reaching. 
+Recent graduate with a doctorate from the [Nueromechanics Lab](https://www.colorado.edu/neuromechanics/) at University of Colorado, Boulder under Alaa Ahmed. Our lab focuses on determining how effort and reward can impact motor decisions in arm reaching.
+
+I'm interested in applying statistical and machine learning techniques to answer our research questions from a data science perspective. We analyze large biomedical data sets to find significant factors influencing movement. Specifically training machine learning methods to predict the cost of a movement.
 
 My research focuses on evaluating effort in these movements. Using a robotic arm manipulandum specifally designed for these tasks, we can alter the effort of reaching by adding inertial or resistive forces as subjects make reaching movements. I use objective measures of effort via metabolic cost and computational modeling techniques to evaluate how effort is represented in arm reaching movements. 
 
