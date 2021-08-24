@@ -7,9 +7,9 @@ author_profile: true
 ---
 
 ## Education
-* B.S. in Biomedical Engineering, Univeristy of Arizona, 2015
+* Ph.D in Integrative Physiology, University of Colorado, Boulder, 2021
 * M.S. in Integrative Physiology, University of Colorado, Boulder, 2017
-* Ph.D in Integrative PHysiology, University of Colorado, Boulder, 2020 (Expecting)
+* B.S. in Biomedical Engineering, Univeristy of Arizona, 2015
 
 ___
 
