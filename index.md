@@ -15,7 +15,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently working on updating this site.
+Currently working on updating this site. Test 1.
 
 Recent graduate with a doctorate from the [Nueromechanics Lab](https://www.colorado.edu/neuromechanics/) at University of Colorado, Boulder under Alaa Ahmed. Our lab focuses on determining how effort and reward can impact motor decisions in arm reaching.
 
