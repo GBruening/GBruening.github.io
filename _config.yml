@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Garrick Bruening PhD"
-  avatar           : "/images/dog_on_chair.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/me_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Recent doctoral gradaute from CU Boulder Neuromechanics Lab. Outdoor enthusiast. Climbing, Skiing, Backpacking."
   location         : "Boulder, Colorado"
   email            : 'Garrick.Bruening@colorado.edu'

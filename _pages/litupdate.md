@@ -5,7 +5,7 @@ permalink: /litupdate/
 author_profile: true
 ---
 
-I have two of the early literature updates as described in the [projects section](https://gbruening.github.io/projects/lit_update). But Ryan will probably be posting them so I'll just link you to his [posts for it](https://alcantarar.github.io/literature/).
+I have two of the early literature updates as described in the [projects section](https://gbruening.github.io/projects/lit_update). But Ryan will probably be posting them so I'll just link you to his [posts for it](https://www.ryan-alcantara.com/projects/p88_BiomchBERT/).
 
 
 {% for post in site.litupdate reversed %}
