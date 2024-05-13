@@ -12,7 +12,7 @@ citation: 'Bruening, Garrick; Ahmed, Alaa. (2019). &quot;A validation of metabol
 
 By developing a biomechanical model of arm reaching we were able to compare multiple neuromechanical proxies to the metabolic cost of arm reaching. We found that neural drive squared and an energy model do a reasonable job at predicting metabolic cost. Common proxies such as torque squared and output force do not seem to predict the metabolic cost of reaching very well.
 
-<embed src="/files/bruening_arm_model.pdf" type="application/pdf"/>
+<embed src="/files/Proxy_modeling-1.pdf" type="application/pdf"/>
 
 [Download poster here](https://gbruening.github.io/presentations/NCM2018)
 <!-- 
